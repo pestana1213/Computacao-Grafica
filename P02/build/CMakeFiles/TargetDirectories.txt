@@ -1,0 +1,3 @@
+C:/Users/Pestana/Desktop/Computacao Grafica/P02/build/CMakeFiles/class2.dir
+C:/Users/Pestana/Desktop/Computacao Grafica/P02/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Pestana/Desktop/Computacao Grafica/P02/build/CMakeFiles/ZERO_CHECK.dir
