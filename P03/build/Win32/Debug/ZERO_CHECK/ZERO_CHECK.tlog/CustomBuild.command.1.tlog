@@ -1,0 +1,10 @@
+^C:\USERS\PESTANA\DESKTOP\COMPUTACAO GRAFICA\P03\BUILD\CMAKEFILES\BD9800C986837BA594A121D58C09075D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Pestana/Desktop/Computacao Grafica/P03" "-BC:/Users/Pestana/Desktop/Computacao Grafica/P03/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Pestana/Desktop/Computacao Grafica/P03/build/class3.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
