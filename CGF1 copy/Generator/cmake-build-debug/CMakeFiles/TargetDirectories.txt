@@ -1,0 +1,3 @@
+/Users/miguelgoncalves/Desktop/CGF1/Generator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/miguelgoncalves/Desktop/CGF1/Generator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/miguelgoncalves/Desktop/CGF1/Generator/cmake-build-debug/CMakeFiles/Generator.dir
